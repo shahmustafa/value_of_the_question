@@ -1,6 +1,9 @@
+# ML Engineer Mini Project
+
 # value_of_the_question
 model to predict the value of the question in the TV game show “Jeopardy!”
 
+# Step 1:
 ## Problem Statment
 Build a model to predict the value of the question in the TV game show “Jeopardy!”.
 
@@ -20,3 +23,8 @@ Data description:
 'show_number' : string of show number, e.g '4680'
 
 'air_date' : the show air date in format YYYY-MM-DD
+
+# Step 2: 
+I found two issues:
+- There is no option to reply to particular chat
+- When bot is summarizing the above user’s conversation it is not comparing and eliminating the same chat sentences  
